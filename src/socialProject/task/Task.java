@@ -1,4 +1,4 @@
-package task;
+package socialProject.task;
 
 /**
  * Created by pashc on 04.09.2016.

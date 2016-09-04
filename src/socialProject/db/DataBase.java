@@ -1,6 +1,6 @@
-package db;
+package socialProject.db;
 
-import task.Task;
+import socialProject.task.Task;
 
 import java.io.IOException;
 import java.nio.file.Files;

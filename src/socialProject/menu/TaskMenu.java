@@ -1,7 +1,7 @@
-package menu;
+package socialProject.menu;
 
-import interfaces.ITaskController;
-import reader.CommandLineReader;
+import socialProject.interfaces.ITaskController;
+import socialProject.reader.CommandLineReader;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -25,7 +25,7 @@ public class TaskMenu {
             String choise = scanner.nextLine();
             switch (choise) {
                 case "1":
-                    System.out.println("Input path on your PC to make task copy");
+                    System.out.println("Input path on your PC to make socialProject.task copy");
                     String path = scanner.nextLine();
                     String fileName = path.split("\\.")[0];
                     int id = Integer.parseInt(String.valueOf(fileName.charAt(fileName.length() - 1)));

@@ -1,8 +1,8 @@
-package controller;
+package socialProject.controller;
 
-import db.DataBase;
-import interfaces.ITaskController;
-import task.Task;
+import socialProject.db.DataBase;
+import socialProject.interfaces.ITaskController;
+import socialProject.task.Task;
 
 /**
  * Created by pashc on 04.09.2016.

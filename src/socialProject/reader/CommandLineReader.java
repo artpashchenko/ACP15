@@ -1,4 +1,4 @@
-package reader;
+package socialProject.reader;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

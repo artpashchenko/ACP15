@@ -1,6 +1,6 @@
-package interfaces;
+package socialProject.interfaces;
 
-import task.Task;
+import socialProject.task.Task;
 
 /**
  * Created by pashc on 04.09.2016.
